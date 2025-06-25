@@ -11,3 +11,6 @@ This repository contains the code for CIRPIN, submitted to MLCB 2025 workshop.
 4. Once the model has been updated, searches using the CIRPIN model can be executed following the progres command: `progres search -q query.pdb -t ark_scope40_CIRPIN_embed_1_7_25`
 
 
+## Novel Circular Permutations
+
+Novel pairs of proteins related by circular permutation are listed in `CIRPIN_novel_CP_pairs.csv`
