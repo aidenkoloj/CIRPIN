@@ -1,4 +1,4 @@
-Full installation instruction coming soon
+Full installation instructions coming soon
 
 # CIRPIN: Learning Circular Permutation-Invariant Representations to Uncover Putative Protein Homologs
 
