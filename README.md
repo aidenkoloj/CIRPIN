@@ -1,6 +1,8 @@
+Full installation instruction coming soon
+
 # CIRPIN: Learning Circular Permutation-Invariant Representations to Uncover Putative Protein Homologs
 
-This repository contains the code for CIRPIN, submitted to MLCB 2025 workshop. 
+This repository contains the code for CIRPIN, presented at MLCB 2025. 
 
 ## Installation
 
@@ -9,4 +11,3 @@ This repository contains the code for CIRPIN, submitted to MLCB 2025 workshop.
 
 ## Novel Circular Permutations
 
-Novel pairs of proteins related by circular permutation are listed in `CIRPIN_novel_CP_pairs.csv`
