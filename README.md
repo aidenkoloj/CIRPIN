@@ -4,7 +4,7 @@ This repository contains the code for CIRPIN, submitted to MLCB 2025 workshop.
 
 ## Installation
 
-1. Installation requires Progres ( [paper link](https://academic.oup.com/bioinformaticsadvances/article/5/1/vbaf042/8107707)). The installation for Progres can be found ( [install link](https://github.com/greener-group/progres?tab=readme-ov-file)). TM-align is also required: ( [install link](https://aideepmed.com/TM-align/))
+1. Installation requires Progres ( [paper link](https://academic.oup.com/bioinformaticsadvances/article/5/1/vbaf042/8107707)). The installation for ( [Progres](https://github.com/greener-group/progres?tab=readme-ov-file)). ( [TM-align](https://aideepmed.com/TM-align/)) is also required.
 
 
 ## Novel Circular Permutations
