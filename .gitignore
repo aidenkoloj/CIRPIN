@@ -1,0 +1,5 @@
+
+*.tsv
+*.pt
+
+./AFDB_ClustR/cluster_reps_ted_365m.domain_summary.cath.globularity.taxid.tsv
