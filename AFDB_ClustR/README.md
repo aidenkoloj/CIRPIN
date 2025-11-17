@@ -14,6 +14,7 @@ The pipeline identifies putative circular permutation pairs by comparing Progres
 ### (4) `get_putative_pairs_lists*`
 ### (5) `verify_putative_pairs*`
 ### (6) `combine_verify_pairs_output.py`
+### (7) `get_CATH_for_AFDB_*`
 
 **Purpose**
 
@@ -35,3 +36,6 @@ The pipeline identifies putative circular permutation pairs by comparing Progres
 
 ## (6)
 ### - Combine the outputs from (5) 
+
+## (7)
+### - Scripts to obtain CATH labels for outputs
