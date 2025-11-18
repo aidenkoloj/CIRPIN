@@ -1,5 +1,7 @@
 
 *.tsv
 *.pt
-
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
 ./AFDB_ClustR/cluster_reps_ted_365m.domain_summary.cath.globularity.taxid.tsv
