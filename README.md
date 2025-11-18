@@ -10,10 +10,10 @@ This repository contains the code for CIRPIN, presented at MLCB 2025.
 
 ## Model Weights
 
-1. Model weights for [CIRPIN] (https://huggingface.co/aidenkzj/CIRPIN/tree/main)
+1. Model weights for [CIRPIN](https://huggingface.co/aidenkzj/CIRPIN/tree/main)
 
 
 ## Novel Circular Permutations
 
-1. Datasets of novel circular permutations found by CIRPIN: [link] (https://huggingface.co/datasets/aidenkzj/CIRPIN/tree/main)
+1. Datasets of novel circular permutations found by CIRPIN: [link](https://huggingface.co/datasets/aidenkzj/CIRPIN/tree/main)
 
