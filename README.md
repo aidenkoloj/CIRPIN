@@ -11,23 +11,29 @@ Coming soon
 
 ### Installation
 
-1. **Install prerequisites**  
+1. **Install prerequisites**
+   
    CIRPIN requires:
-   [Progres](https://github.com/greener-group/progres?tab=readme-ov-file)  
-   [TM-align](https://aideepmed.com/TM-align/)  
-   [Foldcomp](https://github.com/steineggerlab/foldcomp)  
+   
+   - [Progres](https://github.com/greener-group/progres?tab=readme-ov-file)  
+   - [TM-align](https://aideepmed.com/TM-align/)  
+   - [Foldcomp](https://github.com/steineggerlab/foldcomp)  
 
-2. **Updating model weights**  
-   To run CIRPIN, load ```CIRPIN/trained_models/CIRPIN_model/CIRPIN_model_5k_cp_epoch301.pt```  
+3. **Updating model weights**
+     
+   To run CIRPIN, load ```CIRPIN/trained_models/CIRPIN_model/CIRPIN_model_5k_cp_epoch301.pt```
+   
    To run Progres, load ```CIRPIN/trained_models/Progres_model/Progres_trained_model.pt```  
 
-3. **Embedded AFDB-ClustR**  
+5. **Embedded AFDB-ClustR**
+   
   The full [AFDB-ClustR](https://www.nature.com/articles/s41586-023-06510-w) embedded using CIRPIN/Progres is available for download at [link](https://huggingface.co/datasets/aidenkzj/CIRPIN/tree/main)  
 
 
 ## CIRPIN-DB: Accessing Databases of Circular Permutations
 
-1. Datasets of CPs found SCOPe 40%: ```CIRPIN/scope40```  
+1. Datasets of CPs found SCOPe 40%: ```CIRPIN/scope40```
+ 
 2. Datasets of CPs found in AFDB-ClustR: [link](https://huggingface.co/datasets/aidenkzj/CIRPIN/tree/main)
 
 
