@@ -26,8 +26,8 @@ Coming soon
    To run Progres, load ```CIRPIN/trained_models/Progres_model/Progres_trained_model.pt```  
 
 5. **Embedded AFDB-ClustR**
-   
-  The full [AFDB-ClustR](https://www.nature.com/articles/s41586-023-06510-w) embedded using CIRPIN/Progres is available for download at [link](https://huggingface.co/datasets/aidenkzj/CIRPIN/tree/main)  
+
+   The full [AFDB-ClustR](https://www.nature.com/articles/s41586-023-06510-w) embedded using CIRPIN/Progres is available for download at [link](https://huggingface.co/datasets/aidenkzj/CIRPIN/tree/main)  
 
 
 ## CIRPIN-DB: Accessing Databases of Circular Permutations
