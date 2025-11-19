@@ -11,7 +11,7 @@ Coming soon
 
 ### Installation
 
-1. **Install prerequisites **
+1. **Install prerequisites**
    CIRPIN requires:
    [Progres](https://github.com/greener-group/progres?tab=readme-ov-file)
    [TM-align](https://aideepmed.com/TM-align/)
