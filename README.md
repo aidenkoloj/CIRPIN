@@ -5,7 +5,8 @@ This repo is under active development: full installation instructions coming soo
 > 📄 **Paper**: [CIRPIN: Learning Circular Permutation-Invariant Representations to Uncover Putative Protein Homologs](https://www.biorxiv.org/content/10.1101/2025.11.18.689110v1)
  
 ## 📝 Colab Notebook
-Coming soon
+**Work In Progres**
+[Colab_CIRPIN](https://colab.research.google.com/drive/1lYUflq6Whl0-59QNa36A3biriHPsq4Yx#scrollTo=RpVU6ZAlIcak)
 
 ## Usage
 
