@@ -6,7 +6,8 @@ This repo is under active development: full installation instructions coming soo
  
 ## 📝 Colab Notebook
 **Work In Progres**
-[Colab_CIRPIN](https://colab.research.google.com/drive/1lYUflq6Whl0-59QNa36A3biriHPsq4Yx#scrollTo=RpVU6ZAlIcak)
+
+[Colab Notebook CIRPIN](https://colab.research.google.com/drive/1lYUflq6Whl0-59QNa36A3biriHPsq4Yx#scrollTo=RpVU6ZAlIcak)
 
 ## Usage
 
