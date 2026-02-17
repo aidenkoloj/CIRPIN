@@ -1,4 +1,3 @@
-This repo is under active development: full installation instructions coming soon
 
 # CIRPIN: Learning Circular Permutation-Invariant Representations to Uncover Putative Protein Homologs 🐍
 
