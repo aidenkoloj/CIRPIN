@@ -1,0 +1,13 @@
+alignment_label,cluster_label,num_clusters,alignment_type,cluster_mode,e_value,coverage,cov_mode,tmscore_threshold,output_prefix
+3di,SetCover,480,0,0,0.01,0.9,0,0.5,align3di_clustSetCover_e0.01_c0.9
+3di,ConnectedComp,451,0,1,0.01,0.9,0,0.5,align3di_clustConnectedComp_e0.01_c0.9
+3di,CDHIT_v1,509,0,2,0.01,0.9,0,0.5,align3di_clustCDHIT_v1_e0.01_c0.9
+3di,CDHIT_v2,509,0,3,0.01,0.9,0,0.5,align3di_clustCDHIT_v2_e0.01_c0.9
+TM,SetCover,193,1,0,0.01,0.9,0,0.5,alignTM_clustSetCover_e0.01_c0.9
+TM,ConnectedComp,175,1,1,0.01,0.9,0,0.5,alignTM_clustConnectedComp_e0.01_c0.9
+TM,CDHIT_v1,253,1,2,0.01,0.9,0,0.5,alignTM_clustCDHIT_v1_e0.01_c0.9
+TM,CDHIT_v2,253,1,3,0.01,0.9,0,0.5,alignTM_clustCDHIT_v2_e0.01_c0.9
+3Di+AA,SetCover,483,2,0,0.01,0.9,0,0.5,align3Di+AA_clustSetCover_e0.01_c0.9
+3Di+AA,ConnectedComp,454,2,1,0.01,0.9,0,0.5,align3Di+AA_clustConnectedComp_e0.01_c0.9
+3Di+AA,CDHIT_v1,512,2,2,0.01,0.9,0,0.5,align3Di+AA_clustCDHIT_v1_e0.01_c0.9
+3Di+AA,CDHIT_v2,512,2,3,0.01,0.9,0,0.5,align3Di+AA_clustCDHIT_v2_e0.01_c0.9
