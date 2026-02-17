@@ -4,7 +4,6 @@
 > 📄 **Paper**: [CIRPIN: Learning Circular Permutation-Invariant Representations to Uncover Putative Protein Homologs](https://www.biorxiv.org/content/10.1101/2025.11.18.689110v1)
  
 ## 📝 Colab Notebook
-**Work In Progres**
 
 [Colab Notebook CIRPIN](https://colab.research.google.com/github/aidenkoloj/CIRPIN/blob/main/CIRPIN.ipynb)
 
