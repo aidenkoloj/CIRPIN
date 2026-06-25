@@ -5,7 +5,10 @@
  
 ## 📝 Colab Notebook
 
-[Colab Notebook CIRPIN](https://colab.research.google.com/github/aidenkoloj/CIRPIN/blob/main/CIRPIN.ipynb)
+To access CIRPIN as a search method:
+[CIRPIN](https://colab.research.google.com/github/aidenkoloj/CIRPIN/blob/main/CIRPIN.ipynb)
+To access the CIRPIN-DB (Database of CPs from the AFDB-ClustR):
+[CIRPIN-DB](https://colab.research.google.com/drive/1kTCFSwPrgYJ499w4NjPSyztHKnT4_A7g?usp=sharing)
 
 ## Usage
 
