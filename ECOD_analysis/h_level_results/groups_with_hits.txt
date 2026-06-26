@@ -1,0 +1,409 @@
+# Groups with CIRPIN hits — Fri Jun 26 14:57:21 EDT 2026
+# group_name         ecod_h_group   n_pairs  hierarchy
+group_3191           3748.1       17p      extended segments	26S proteasome regulatory subunit RPN8/RPN11 C-terminal domain	26S proteasome regulatory subunit RPN8/RPN11 C-terminal domain
+group_101            4246.1       18p      a+b complex topology	N-terminal domain in RNA-polymerase beta-prime subunit	N-terminal domain in RNA-polymerase beta-prime subunit
+group_2112           5057.1       195p     alpha bundles	Neurotransmitter-gated ion-channel transmembrane pore	Neurotransmitter-gated ion-channel transmembrane pore
+group_1011           512.1        33p      a+b two layers	a+b domain in putative modulator of DNA gyrase, PmbA/TldD (Pfam 01523)	a+b domain in putative modulator of DNA gyrase, PmbA/TldD (Pfam 01523)
+group_1014           3261.1       17p      a+b two layers	amino-terminal domain of OmpATb	amino-terminal domain of OmpATb
+group_2115           6158.1       11p      alpha bundles	Nucleoporin p58/p45 helical region	Nucleoporin p58/p45 helical region
+group_1015           4045.1       6p       a+b two layers	barrel domain in D-aminoacid aminotransferase-like PLP-dependent enzymes	barrel domain in D-aminoacid aminotransferase-like PLP-dependent enzymes
+group_1017           221.7        31p      a+b two layers	beta-Grasp	E2-binding domain of E1
+group_102            4010.1       1p       a+b complex topology	N-terminal domain in beta subunit of DNA dependent RNA-polymerase	N-terminal domain in beta subunit of DNA dependent RNA-polymerase
+group_1020           221.2        2p       a+b two layers	beta-Grasp	IF3-N
+group_1022           221.6        2p       a+b two layers	beta-Grasp	MM3350-like
+group_1026           221.4        1714p    a+b two layers	beta-Grasp	Nudix
+group_212            282.1        258p     a+b duplicates or obligate multimers	CBS-domain	CBS-domain
+group_2122           509.1        19p      alpha bundles	PAH2 domain	PAH2 domain
+group_2125           162.1        1p       alpha bundles	PTS-regulatory domain, PRD	PTS-regulatory domain, PRD
+group_2127           7015.1       8p       alpha bundles	Palmitoyltransferase DHHC transmembrane domain	Palmitoyltransferase DHHC transmembrane domain
+group_1028           221.1        15162p   a+b two layers	beta-Grasp	Ubiquitin-related
+group_104            3003.1       19p      a+b complex topology	N-terminal subdomain in DNA replication initiator (cdc21/cdc54)	N-terminal subdomain in DNA replication initiator (cdc21/cdc54)
+group_2132           177.1        2p       alpha bundles	Phospholipase C/P1 nuclease	Phospholipase C/P1 nuclease
+group_1049           330.3        2p       a+b two layers	dsRBD-like	Peptidyl-tRNA hydrolase domain-like
+group_105            3070.1       3p       a+b complex topology	N0 domain in phage tail proteins and secretins-like	N0 domain in phage tail proteins and secretins
+group_2133           5063.1       12p      alpha bundles	Photosystem I reaction center subunit X, PsaK	Photosystem I reaction center subunit X, PsaK
+group_1050           330.4        1p       a+b two layers	dsRBD-like	Porphobilinogen deaminase (hydroxymethylbilane synthase), C-terminal domain
+group_1057           330.1        1398p    a+b two layers	dsRBD-like	dsRNA-binding domain-like
+group_1060           4956.1       6p       a+b two layers	ferredoxin-like domain in yeast RNA-polymerase beta-prime subunit	ferredoxin-like domain in yeast RNA-polymerase beta-prime subunit
+group_1074           3518.1       10p      a+b two layers	putative RnfG subunit of electron transport complex	putative RnfG subunit of electron transport complex
+group_1078           295.1        15p      a+b two layers	ssDNA-binding transcriptional regulator domain-like	ssDNA-binding transcriptional regulator domain
+group_1079           1056.1       5p       a+b two layers	tRNA pseudouridine synthase TruD insertion domain	tRNA pseudouridine synthase TruD insertion domain
+group_2152           1147.1       1p       alpha bundles	RNA polymerase II elongation factor ELL2 C-terminal domain	RNA polymerase II elongation factor ELL2 C-terminal domain
+group_1090           2002.3       437p     a/b barrels	TIM beta/alpha-barrel	Glycoside hydrolase/deacetylase
+group_2154           1045.1       2p       alpha bundles	Rad50-binding domain of Mre11	Rad50-binding domain of Mre11
+group_2158           196.1        16p      alpha bundles	Regulator of G-protein signaling, RGS	Regulator of G-protein signaling, RGS
+group_2159           4006.1       55p      alpha bundles	Release factor (Pfam 00472) N-terminal alpha helical domain	Release factor (Pfam 00472) N-terminal alpha helical domain
+group_2160           170.2        2p       alpha bundles	Retrovirus capsid protein	Retrovirus capsid protein N-terminal domain
+group_32             323.1        391p     a+b complex topology	CoA-dependent acyltransferases	CoA-dependent acyltransferases
+group_2161           170.1        3p       alpha bundles	Retrovirus capsid protein	Retrovirus capsid protein-C
+group_2163           5081.1       91p      alpha bundles	Rhomboid-like	Rhomboid-like
+group_2167           7011.1       11p      alpha bundles	RodA transmembrane domain	RodA transmembrane domain
+group_217            283.2        1p       a+b duplicates or obligate multimers	Creatinase/aminopeptidase-like	gpW/gp25-like
+group_2172           603.3        2p       alpha bundles	STAT-like	CAPPD, an extracellular domain of amyloid beta A4 protein
+group_322            881.1        2p       a+b three layers	Mog1p/PsbP-like	Mog1p/PsbP-like
+group_2176           603.2        50p      alpha bundles	STAT-like	STAT
+group_3246           5046.1       7p       extended segments	F-type ATP synthase subunit b	F-type ATP synthase subunit b
+group_3247           5041.1       29p      extended segments	F1F0 ATP synthase subunit C	F1F0 ATP synthase subunit C
+group_2177           603.1        876p     alpha bundles	STAT-like	t-snare proteins
+group_3254           5056.1       1p       extended segments	Gated mechanosensitive channel	Gated mechanosensitive channel
+group_3257           3470.1       3p       extended segments	Glycophorin-A transmembrane domain	Glycophorin-A transmembrane domain
+group_3261           3324.1       5p       extended segments	Helical arch in Ski2-like helicases	Helical arch in Ski2-like helicases
+group_3262           3297.1       3p       extended segments	Helical hairpin in Ndc80	Helical hairpin in Ndc80
+group_3275           4991.1       3p       extended segments	Lag-3 N-terminal region	Lag-3 N-terminal region
+group_3278           3538.1       1p       extended segments	MerF	MerF
+group_2178           3352.1       18p      alpha bundles	STT3/PglB/AglB transmembrane domain	STT3/PglB/AglB transmembrane domain
+group_2181           3831.1       3p       alpha bundles	Secreted protein of unknown function DUF1311	Secreted protein of unknown function DUF1311
+group_2182           1203.1       1p       alpha bundles	Shroom domain 2	Shroom domain 2
+group_2188           604.3        46p      alpha bundles	Spectrin repeat-like	BAG domain
+group_2195           604.6        47p      alpha bundles	Spectrin repeat-like	GAT-like domain
+group_2202           604.12       240p     alpha bundles	Spectrin repeat-like	MIT domain
+group_2207           604.5        561p     alpha bundles	Spectrin repeat-like	PhoU-like (Pfam 01895)
+group_2212           604.9        16p      alpha bundles	Spectrin repeat-like	Ribosomal protein S20
+group_329            213.1        665p     a+b three layers	Nat/Ivy	Acyl-CoA N-acyltransferases (Nat)
+group_2213           604.39       11p      alpha bundles	Spectrin repeat-like	S-component of energy-coupling factor (ECF) transporters
+group_1092           2002.1       63636p   a/b barrels	TIM beta/alpha-barrel	TIM barrels
+group_3317           3456.1       15p      extended segments	NADH-quinone oxidoreductase subunit A	NADH-quinone oxidoreductase subunit A
+group_1094           2500.1       44p      a/b barrels	Ten stranded beta/alpha barrel	Ten stranded beta/alpha barrel
+group_3318           3579.1       1p       extended segments	NADH-quinone oxidoreductase subunit J	NADH-quinone oxidoreductase subunit J
+group_1098           7524.1       83p      a/b three-layered sandwiches	ALDH-like	ALDH-like
+group_11             253.1        1p       a+b complex topology	Argininosuccinate synthetase-C	Argininosuccinate synthetase-C
+group_3343           5027.1       7p       extended segments	Preprotein translocase SecE subunit	Preprotein translocase SecE subunit
+group_1101           7542.1       1p       a/b three-layered sandwiches	Aconitase iron-sulfur domain	Aconitase iron-sulfur domain
+group_2217           604.1        1809p    alpha bundles	Spectrin repeat-like	Spectrin repeat
+group_2230           574.1        31p      alpha bundles	Surp module (SWAP domain)	Surp module (SWAP domain)
+group_1102           7515.1       5p       a/b three-layered sandwiches	Alkaline phosphatase-like	Alkaline phosphatase-like
+group_1103           7555.1       2p       a/b three-layered sandwiches	Alpha-2,3/8-sialyltransferase CstII-related	Alpha-2,3/8-sialyltransferase CstII-related
+group_2234           3914.1       27p      alpha bundles	TMEM16 lipid scramblase transmembrane domain	TMEM16 lipid scramblase transmembrane domain
+group_2237           3834.1       1p       alpha bundles	TcA alpha pore-forming domain	TcA alpha pore-forming domain
+group_1104           7552.1       5p       a/b three-layered sandwiches	Amidase signature (AS) enzymes	Amidase signature (AS) enzymes
+group_1105           7502.1       200p     a/b three-layered sandwiches	Anticodon-binding domain of Class II aaRS	Anticodon-binding domain of Class II aaRS
+group_2238           141.1        410p     alpha bundles	Terpenoid synthases	Terpenoid synthases
+group_336            316.1        208p     a+b three layers	Nucleotidyltransferase-like	Nucleotidyltransferase
+group_3362           5055.1       1p       extended segments	Small-conductance potassium channel	Small-conductance potassium channel
+group_338            273.1        344p     a+b three layers	PR-1-like	PR-1-like
+group_1110           7568.1       320p     a/b three-layered sandwiches	BRCT domain	BRCT domain
+group_2239           191.1        319p     alpha bundles	Tetracyclin repressor-like, C-terminal domain	Tetracyclin repressor-like, C-terminal domain
+group_2241           629.1        5p       alpha bundles	TorD-like (Pfam 06192)	TorD-like (Pfam 06192)
+group_1117           3010.1       3p       a/b three-layered sandwiches	C-terminal subdomain in Lon-related proteases catalytic domains	C-terminal subdomain in Lon-related proteases catalytic domains
+group_1118           7592.1       10p      a/b three-layered sandwiches	CARF (CRISPR-associated Rossmann fold) domains	CARF (CRISPR-associated Rossmann fold) domains
+group_2244           3651.1       2p       alpha bundles	Translation initiation factor eIF-2B delta subunit N-terminal helical domain	Translation initiation factor eIF-2B delta subunit N-terminal helical domain
+group_339            311.1        2p       a+b three layers	Phoshotransferase/anion transport protein	Phoshotransferase/anion transport protein
+group_2246           7064.1       5p       alpha bundles	Transmembrane domain of VIT1	Transmembrane domain of VIT1
+group_1126           7520.1       8p       a/b three-layered sandwiches	CinA-like	CinA-like
+group_2247           5069.1       3924p    alpha bundles	Transmembrane heme-binding four-helical bundle	Transmembrane heme-binding four-helical bundle
+group_340            300.1        459p     a+b three layers	Phospholipase D/nuclease	Phospholipase D/nuclease
+group_3400           3462.1       2p       extended segments	V-type proton ATPase subunit G	V-type proton ATPase subunit G
+group_1128           2486.1       50p      a/b three-layered sandwiches	ClpP/crotonase	ClpP/crotonase
+group_3420           529.1        2p       few secondary structure elements	Anaphylotoxins (complement system)	Anaphylotoxins (complement system)
+group_1141           7597.1       104p     a/b three-layered sandwiches	Endolysin C-terminal domain	Endolysin C-terminal domain
+group_2251           1075.5       119p     alpha bundles	Type II ABC exporter transmembrane domain fold	Multidrug and toxic compound extrusion (MATE) transporter
+group_1142           4244.1       2p       a/b three-layered sandwiches	EreA/ChaN-like	EreA/ChaN-like
+group_3426           904.1        728p     few secondary structure elements	B-box zinc-binding domain-like	B-box zinc-binding domain
+group_3427           904.2        1p       few secondary structure elements	B-box zinc-binding domain-like	UBR box
+group_3428           384.1        72p      few secondary structure elements	BPTI-like	BPTI-like
+group_3434           906.1        116p     few secondary structure elements	CCCH zinc finger	CCCH zinc finger
+group_2252           1075.4       5p       alpha bundles	Type II ABC exporter transmembrane domain fold	Type I ABC exporter transmembrane domain fold
+group_3458           385.1        18p      few secondary structure elements	Cystine-knot cytokines	Cystine-knot cytokines
+group_3461           383.1        2p       few secondary structure elements	Defensin-like	Defensin-related
+group_2253           1075.3       248p     alpha bundles	Type II ABC exporter transmembrane domain fold	Type I ABC importer transmembrane domain fold
+group_3465           361.1        50p      few secondary structure elements	DnaJ/Hsp40 cysteine-rich domain	DnaJ/Hsp40 cysteine-rich domain
+group_2254           1075.1       116p     alpha bundles	Type II ABC exporter transmembrane domain fold	Type II ABC exporter transmembrane domain-related
+group_2255           5065.1       1p       alpha bundles	Type II ABC importer transmembrane domain fold	Type II ABC importer transmembrane domain fold
+group_2256           3812.1       5p       alpha bundles	Type III secretion protein YscE	Type III secretion protein YscE
+group_2259           7111.1       3p       alpha bundles	Ubiquinol-cytochrome C chaperone, C-terminal domain	Ubiquinol-cytochrome C chaperone, C-terminal domain
+group_3472           389.1        2882p    few secondary structure elements	EGF-like	EGF-related
+group_3473           389.4        2p       few secondary structure elements	EGF-like	Fibulin-4 EGF-like 1 domain
+group_2267           7014.1       1953p    alpha bundles	Undecaprenyl pyrophosphate phosphatase (UppP) transmembrane domain	Undecaprenyl pyrophosphate phosphatase (UppP) transmembrane domain
+group_2269           5060.2       2p       alpha bundles	V-type ATP synthase subunit C	Toxin coregulated pilus biosynthesis protein E cytoplasmic domain
+group_3475           389.3        13p      few secondary structure elements	EGF-like	LDL receptor-like module
+group_3476           389.2        4p       few secondary structure elements	EGF-like	Serine protease inhibitors
+group_2270           5060.1       100p     alpha bundles	V-type ATP synthase subunit C	V-type ATP synthase subunit C
+group_3478           927.1        18p      few secondary structure elements	Elafin-like	Elafin-like
+group_2273           1189.1       3p       alpha bundles	VSG (variant surface glycoprotein) N-terminal domain and haptoglobin-hemoglobin receptor	VSG (variant surface glycoprotein) N-terminal domain and haptoglobin-hemoglobin receptor
+group_2275           3788.1       2p       alpha bundles	Viral accessory protein x (Vpx) / viral protein r (Vpr)	Viral accessory protein x (Vpx) / viral protein r (Vpr)
+group_2279           620.1        39p      alpha bundles	YfiT-like putative metal-dependent hydrolases	YfiT-like putative metal-dependent hydrolases
+group_3493           377.10       2p       few secondary structure elements	Glucocorticoid receptor-like	A20-like zinc finger
+group_3494           377.2        16p      few secondary structure elements	Glucocorticoid receptor-like	C-terminal, Zn-finger domain of MutM-like DNA repair proteins
+group_2282           3755.3       1155p    alpha bundles	YscO-like	CT398 helical hairpin
+group_3496           377.1        1584p    few secondary structure elements	Glucocorticoid receptor-like	LIM domain-like
+group_3501           377.11       10p      few secondary structure elements	Glucocorticoid receptor-like	THAP domain
+group_1149           2007.1       10310p   a/b three-layered sandwiches	Flavodoxin-like	Class I glutamine amidotransferase-like
+group_2284           3755.4       77p      alpha bundles	YscO-like	Phosphatidylinositol 3-kinase regulatory subunit inter-SH2 domain
+group_2286           514.1        30p      alpha bundles	YutG-like	YutG-like
+group_2288           622.1        58p      alpha bundles	YvfG-like	HSC20 (HSCB), C-terminal oligomerisation domain
+group_351            223.3        51p      a+b three layers	Profilin-like	a+b domain in beta-lactamase/transpeptidase-like proteins
+group_3510           4203.1       2p       few secondary structure elements	HSP33 redox switch-like	HSP33 redox switch-like
+group_2289           622.4        35p      alpha bundles	YvfG-like	Mite allergen Der p 5-related
+group_2293           1188.1       1p       alpha bundles	ZIP zinc transporter	ZIP zinc transporter
+group_2296           5068.1       3p       alpha bundles	a domain/subunit of cytochrome bc1 complex (Ubiquinol-cytochrome c reductase)	a domain/subunit of cytochrome bc1 complex (Ubiquinol-cytochrome c reductase)
+group_2297           159.1        11p      alpha bundles	all-alpha NTP pyrophosphatases	all-alpha NTP pyrophosphatases
+group_2298           4009.1       2p       alpha bundles	alpha-helical domain in AF1104-like proteins	alpha-helical domain in AF1104-like proteins
+group_3513           390.1        56p      few secondary structure elements	Hairpin loop containing domain-like	Hairpin loop containing domain-like
+group_3516           378.1        30p      few secondary structure elements	His-Me finger endonucleases	His-Me finger endonucleases
+group_3517           913.1        3p       few secondary structure elements	Hormone receptor domain (HRM, Pfam 02793)	Hormone receptor domain (HRM, Pfam 02793)
+group_3518           388.1        4p       few secondary structure elements	Huristasin-like	Huristasin-like
+group_1156           2007.15      2p       a/b three-layered sandwiches	Flavodoxin-like	N-deoxyribosyltransferase
+group_23             209.1        2384p    a+b complex topology	C-type lectin-like	C-type lectin-like
+group_2300           4030.1       1p       alpha bundles	alpha-helical domain in subunits of heterodimeric actin filament capping protein Capz	alpha-helical domain in subunits of heterodimeric actin filament capping protein Capz
+group_2303           7022.1       7p       alpha bundles	central core domain of D-alanyl transfer protein	central core domain of D-alanyl transfer protein
+group_2304           5071.2       2p       alpha bundles	cytochrome bc1 complex 11 kDa protein-like	CHCH domain
+group_1160           2007.6       15p      a/b three-layered sandwiches	Flavodoxin-like	Ribosomal protein S2/SIS domain
+group_2307           4967.1       18p      alpha bundles	helical bundle domain in reverse transcriptase-like polymerases	helical bundle domain in reverse transcriptase-like polymerases
+group_2308           4323.1       6p       alpha bundles	helical bundle domain in vacuolar ATP synthase subunit C	helical bundle domain in vacuolar ATP synthase subunit C
+group_2309           4973.1       1p       alpha bundles	helical domain in DNA primase DnaG catalytic core	helical domain in DNA primase DnaG catalytic core
+group_2312           5086.1       8p       alpha bundles	helical hairpin of HlyD-like secretion proteins	helical hairpin of HlyD-like secretion proteins
+group_352            223.2        323p     a+b three layers	Profilin-like	profilin-like
+group_1163           2007.5       245p     a/b three-layered sandwiches	Flavodoxin-like	SGNH hydrolase
+group_2313           7023.1       27p      alpha bundles	helical ridge domain of D-alanyl transfer protein	helical ridge domain of D-alanyl transfer protein
+group_3523           367.1        9p       few secondary structure elements	Insulin-like	Insulin-like
+group_2314           632.11       89p      alpha bundles	immunoglobulin/albumin-binding domain-like	AF1782-like
+group_1166           2007.9       2p       a/b three-layered sandwiches	Flavodoxin-like	Toll/Interleukin receptor TIR domain
+group_3524           394.1        13p      few secondary structure elements	Invertebrate chitin-binding proteins	Invertebrate chitin-binding proteins
+group_2316           632.2        12p      alpha bundles	immunoglobulin/albumin-binding domain-like	Bacterial immunoglobulin/albumin-binding domains
+group_3525           379.1        2p       few secondary structure elements	Kazal-type serine protease inhibitors-like	Kazal-type serine protease inhibitors
+group_3526           380.1        1p       few secondary structure elements	Kringle-like	Kringle-like
+group_2318           632.22       165p     alpha bundles	immunoglobulin/albumin-binding domain-like	Cell division protein EzrA repeats
+group_2322           632.1        7p       alpha bundles	immunoglobulin/albumin-binding domain-like	Families 57/38 glycoside transferase middle domain
+group_2325           632.7        408p     alpha bundles	immunoglobulin/albumin-binding domain-like	Heat shock protein 70kD (HSP70), C-terminal subdomain
+group_2330           632.3        1p       alpha bundles	immunoglobulin/albumin-binding domain-like	Phosphoprotein XD domain
+group_2333           632.15       13p      alpha bundles	immunoglobulin/albumin-binding domain-like	Staphylococcal complement inhibitor (SCIN)
+group_2338           632.8        5p       alpha bundles	immunoglobulin/albumin-binding domain-like	alpha-2-Macroglobulin receptor associated protein (RAP) domain 1
+group_2339           632.18       1p       alpha bundles	immunoglobulin/albumin-binding domain-like	hypothetical protein PA2901
+group_234            232.1        7p       a+b duplicates or obligate multimers	Pentein	Pentein
+group_2341           3184.1       2p       alpha bundles	mRNA 3'-end-processing protein Rna15p hinge domain	mRNA 3'-end-processing protein Rna15p hinge domain
+group_2346           3543.1       23p      alpha complex topology	Acid-activated urea channel	Acid-activated urea channel
+group_2350           5048.1       4p       alpha complex topology	Aquaporin-like	Aquaporin-like
+group_2364           3236.1       116p     alpha complex topology	Cation-proton antiporter	Cation-proton antiporter (CPA)
+group_353            223.1        2059p    a+b three layers	Profilin-like	sensor domains
+group_2366           172.1        1p       alpha complex topology	Citrate synthase-like	Citrate synthase
+group_3530           931.1        2p       few secondary structure elements	Metallothionein	Metallothionein
+group_3546           356.1        4p       few secondary structure elements	PMP inhibitors	PMP inhibitors
+group_2371           3415.1       9p       alpha complex topology	Concentrative nucleoside transporter	Concentrative nucleoside transporter
+group_3549           371.1        2p       few secondary structure elements	Phospholipase A2, PLA2	Phospholipase A2, PLA2
+group_2373           182.1        4p       alpha complex topology	Cryptochrome/photolyase FAD-binding domain-related	Cryptochrome/photolyase FAD-binding domain-related
+group_238            3121.1       106p     a+b duplicates or obligate multimers	Polypeptide transport-associated (POTRA) domain	Polypeptide transport-associated (POTRA) domain
+group_2387           136.1        26p      alpha complex topology	Heme-dependent peroxidases	Heme-dependent peroxidases
+group_2392           1015.1       1p       alpha complex topology	Insulin-induced gene (Insig) homologs	Insulin-induced gene (Insig) homologs
+group_2393           3978.1       211p     alpha complex topology	Integral membrane Acyl-CoA desaturase	Integral membrane Acyl-CoA desaturase
+group_1175           2006.1       11572p   a/b three-layered sandwiches	HAD domain-like	HAD domain-related
+group_3557           376.1        45122p   few secondary structure elements	RING/U-box-like	RING/U-box-like
+group_3562           4987.1       5p       few secondary structure elements	Ribosomal protein L31p	Ribosomal protein L31p
+group_3571           375.14       1p       few secondary structure elements	Rubredoxin-like	Rubredoxin-like domain in leucyl-tRNA synthetase (LS1)
+group_1178           2005.1       2884p    a/b three-layered sandwiches	HUP domain-like	HUP domains
+group_1180           2005.2       11p      a/b three-layered sandwiches	HUP domain-like	YdcF
+group_1183           7564.1       1p       a/b three-layered sandwiches	Homo-oligomeric flavin-containing Cys decarboxylases, HFCD	Homo-oligomeric flavin-containing Cys decarboxylases, HFCD
+group_1191           7526.1       2p       a/b three-layered sandwiches	Initiation factor IF2/eIF5b, domain 3	Initiation factor IF2/eIF5b, domain 3
+group_1192           5103.1       1p       a/b three-layered sandwiches	Insert domain in hypothetical protein PF0380	Insert domain in hypothetical protein PF0380
+group_1193           7561.1       1p       a/b three-layered sandwiches	Isochorismatase-like hydrolases	Isochorismatase-like hydrolases
+group_1194           7510.1       156p     a/b three-layered sandwiches	Isocitrate/Isopropylmalate dehydrogenase-like	Isocitrate/Isopropylmalate dehydrogenase-like
+group_120            876.1        19p      a+b complex topology	ParB/Sulfiredoxin	ParB/Sulfiredoxin
+group_1200           7563.1       21p      a/b three-layered sandwiches	MCP/YpsA-related	MCP/YpsA-related
+group_1201           7529.1       296p     a/b three-layered sandwiches	Macro domain-like	Macro domain-like
+group_3572           375.1        24998p   few secondary structure elements	Rubredoxin-like	Rubredoxin-related
+group_3574           375.10       7p       few secondary structure elements	Rubredoxin-like	Zinc finger domain of DNA polymerase-alpha
+group_3578           375.8        7p       few secondary structure elements	Rubredoxin-like	Zinc-binding domain of translation initiation factor 2 beta
+group_358            263.1        26p      a+b three layers	SRF-like	SRF-like
+group_1208           2493.1       1p       a/b three-layered sandwiches	MurF and HprK N-domain-like	MurF and HprK N-domain-like
+group_3583           354.1        46p      few secondary structure elements	Sea anemone toxin k-like	Sea anemone toxin k-related
+group_1211           7509.1       694p     a/b three-layered sandwiches	NIF3 (NGG1p interacting factor 3)-like	NIF3 (NGG1p interacting factor 3)-like
+group_1212           7588.1       2p       a/b three-layered sandwiches	NadA-like/4-hydroxy-3-methylbut-2-enyl diphosphate reductase	NadA-like/4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+group_2396           5050.1       14586p   alpha complex topology	Major facilitator superfamily (MFS) general substrate transporter	Major facilitator superfamily (MFS) general substrate transporter
+group_3586           382.1        2345p    few secondary structure elements	Snake toxin-like	Snake toxin-like
+group_2397           5076.1       4p       alpha complex topology	Mitochondrial ADP/ATP carrier-like	Mitochondrial ADP/ATP carrier
+group_2398           5076.2       13p      alpha complex topology	Mitochondrial ADP/ATP carrier-like	Putative sulfate permease CysZ
+group_3594           922.1        28p      few secondary structure elements	TSP-1 type 1 repeat	TSP-1 type 1 repeat
+group_2402           3843.1       29p      alpha complex topology	NADH-quinone oxidoreductase subunit K	NADH-quinone oxidoreductase subunit K
+group_2406           606.1        28p      alpha complex topology	Nop N-terminal domain	Nop N-terminal domain
+group_2408           195.1        5p       alpha complex topology	NusB-like	NusB-like
+group_3596           174.1        395p     few secondary structure elements	Tetraspanin transmembrane domain	Tetraspanin transmembrane domain
+group_3598           4120.1       9p       few secondary structure elements	Tim10/DDP	Tim10/DDP
+group_2411           131.1        952p     alpha complex topology	PDEase-like	HD-domain/PDEase-like
+group_2412           131.2        2p       alpha complex topology	PDEase-like	Poly A polymerase C-terminal region-like
+group_3606           355.1        40p      few secondary structure elements	Trefoil/Plexin domain-like	Trefoil/Plexin domain-like
+group_2414           3684.1       74p      alpha complex topology	PSPTO4464 C-terminal domain-like	PSPTO4464 C-terminal domain-like
+group_3607           4294.1       9p       few secondary structure elements	Trm112p-like	Trm112p-like
+group_2420           4271.1       4p       alpha complex topology	PriB N-terminal domain-like	PriB N-terminal domain-like
+group_3619           4106.1       28p      few secondary structure elements	Zinc hairpin stack	Zinc hairpin stack
+group_2423           613.1        3p       alpha complex topology	Putative anticodon-binding domain of alanyl-tRNA synthetase (AlaRS)	Putative anticodon-binding domain of alanyl-tRNA synthetase (AlaRS)
+group_3622           373.1        12p      few secondary structure elements	Zn2/Cys6 DNA-binding domain	Zn2/Cys6 DNA-binding domain
+group_3623           3358.1       3p       few secondary structure elements	Zn3Cys9 preSET domain-related	Zn3Cys9 preSET domain-related
+group_1218           7516.1       1708p    a/b three-layered sandwiches	Nucleotide-diphospho-sugar transferases	Nucleotide-diphospho-sugar transferases
+group_243            874.1        9p       a+b duplicates or obligate multimers	Smc hinge domain	Smc hinge domain
+group_1219           7508.1       2p       a/b three-layered sandwiches	O-glucosyltransferase rumi N-terminal domain	O-glucosyltransferase rumi N-terminal domain
+group_2430           194.1        1p       alpha complex topology	Serum albumin-like	Serum albumin-like
+group_2434           142.1        74p      alpha complex topology	Sigma2 domain-like	Sigma2 domain of RNA polymerase sigma factors
+group_2435           3281.1       34p      alpha complex topology	Sodium/proton antiporter subunits-like	Sodium/proton antiporter subunits-like
+group_2436           5051.1       2p       alpha complex topology	Sodium:neurotransmitter symporter family (SNF)-like	Sodium:neurotransmitter symporter family (SNF)-like
+group_2437           3924.1       22p      alpha complex topology	Sterol uptake control protein 2	Sterol uptake control protein 2
+group_244            4100.1       4p       a+b duplicates or obligate multimers	TTHA1013/TTHA0281-like	TTHA1013/TTHA0281-like
+group_2442           4342.1       13p      alpha complex topology	Tex N-terminal region-like	Tex N-terminal region-like
+group_2444           1111.1       3p       alpha complex topology	Trimeric intracellular cation (TRIC) channel	Trimeric intracellular cation (TRIC) channel
+group_2446           627.1        4p       alpha complex topology	VPS9 domain	VPS9 domain
+group_3626           386.1        7426p    few secondary structure elements	beta-beta-alpha zinc fingers	beta-beta-alpha zinc fingers
+group_2448           5054.1       825p     alpha complex topology	Voltage-gated ion channels	Voltage-gated ion channels
+group_2452           4019.1       13p      alpha complex topology	alpha-helical domain in beta-lactamase/transpeptidase-like proteins	alpha-helical domain in beta-lactamase/transpeptidase-like proteins
+group_2453           4025.1       9p       alpha complex topology	alpha-helical domain in nickel-iron hydrogenase, large subunit	alpha-helical domain in nickel-iron hydrogenase, large subunit
+group_3633           387.1        655p     few secondary structure elements	omega toxin-like	omega toxin-related
+group_3634           568.1        3p       few secondary structure elements	p8-MTCP1-related	p8-MTCP1-related
+group_246            3409.1       2p       a+b duplicates or obligate multimers	Vacuolar protein sorting-associated protein 30 BARA domain	Vacuolar protein sorting-associated protein 30 BARA domain
+group_2462           4177.1       258p     alpha duplicates or obligate multimers	BAR/IMD domain-like	BAR/IMD domain-like
+group_2469           1030.1       4p       alpha duplicates or obligate multimers	Crispr-associated protein Csm2	Crispr-associated protein Csm2
+group_2483           4307.1       3p       alpha duplicates or obligate multimers	EB1 dimerisation domain-like	EB1 dimerisation domain-like
+group_2488           548.1        1p       alpha duplicates or obligate multimers	GRIP domain	GRIP domain
+group_2489           3443.1       2p       alpha duplicates or obligate multimers	Get5 carboxyl domain	Get5 carboxyl domain
+group_2490           547.1        18p      alpha duplicates or obligate multimers	Glutamyl tRNA-reductase dimerization domain	Glutamyl tRNA-reductase dimerization domain
+group_2492           4168.1       86p      alpha duplicates or obligate multimers	HAMP domain	HAMP domain
+group_2494           105.1        382p     alpha duplicates or obligate multimers	HLH-like	HLH, helix-loop-helix DNA-binding domain
+group_2499           4202.1       2p       alpha duplicates or obligate multimers	Hermes dimerisation domain	Hermes dimerisation domain
+group_2504           3896.1       360p     alpha duplicates or obligate multimers	Intramembrane CDP-DAG synthetase-related	Intramembrane CDP-DAG synthetase-related
+group_2509           558.1        8p       alpha duplicates or obligate multimers	Lis-homology dimerization domain	Lis-homology dimerization domain
+group_2512           4207.1       164p     alpha duplicates or obligate multimers	Mediator hinge subcomplex-like	Mediator hinge subcomplex-like
+group_2515           3919.1       1p       alpha duplicates or obligate multimers	N-terminal domain of COMMD9	N-terminal domain of COMMD9
+group_2521           3871.1       2p       alpha duplicates or obligate multimers	PHIST	PHIST
+group_2526           3676.1       2p       alpha duplicates or obligate multimers	RNA helicase Hera dimerization domain	RNA helicase Hera dimerization domain
+group_2531           605.1        755p     alpha duplicates or obligate multimers	ROP-like	Homodimeric domain of signal transducing histidine kinase
+group_2546           6155.1       436p     alpha duplicates or obligate multimers	TOG superfamily	SWEET transporter
+group_3650           2484.1       67402p   mixed a+b and a/b	Ribonuclease H-like	Ribonuclease H-like
+group_3651           2484.8       1p       mixed a+b and a/b	Ribonuclease H-like	Separase pseudo-protease domain (PPD)
+group_2557           3939.1       458p     alpha duplicates or obligate multimers	XRCC4 C-terminal oligomerization domain	XRCC4 C-terminal oligomerization domain
+group_2561           4336.2       18p      alpha duplicates or obligate multimers	YheA/YmcA-like	Protein SUS1
+group_3654           2498.5       75p      mixed a+b and a/b	Zincin-like	GroEL-intermediate domain like
+group_3655           2498.4       1p       mixed a+b and a/b	Zincin-like	HSP90 C-terminal domain (C-terminal part of Pfam 00183)
+group_2564           6026.1       11p      alpha duplicates or obligate multimers	cwf21 domain	cwf21 domain
+group_257            288.1        7p       a+b four layers	CNF1/YfiH-like putative cysteine hydrolases	CNF1/YfiH-like putative cysteine hydrolases
+group_2570           185.1        30p      alpha superhelices	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin-like	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin/Protein HNS-dependent expression A HdeA
+group_2587           3736.1       4p       alpha superhelices	NLRC4 helical domain HD2	NLRC4 helical domain HD2
+group_259            246.3        15p      a+b four layers	Carbon-nitrogen hydrolase-like	DNase I-like
+group_3656           2498.1       5680p    mixed a+b and a/b	Zincin-like	Metalloproteases ("zincins") catalytic domain
+group_3658           2498.2       124p     mixed a+b and a/b	Zincin-like	beta-N-acetylhexosaminidase-like domain
+group_1223           2004.11      8p       a/b three-layered sandwiches	P-loop domains-like	PEP carboxykinase N-terminal domain
+group_1226           7577.1       30p      a/b three-layered sandwiches	PLP-dependent transferases	PLP-dependent transferases
+group_1227           7573.1       9p       a/b three-layered sandwiches	PRTase-like	PRTase-like
+group_367            2485.1       42406p   a+b three layers	Thioredoxin-like	Thioredoxin-like
+group_37             219.1        16528p   a+b complex topology	Cysteine proteinases-like	Cysteine proteinases
+group_375            3105.1       17p      a+b three layers	thylakoid acid phosphatase domain-related	thylakoid acid phosphatase domain-related
+group_1230           7523.1       38561p   a/b three-layered sandwiches	Periplasmic binding protein-like II	Periplasmic binding protein-like II
+group_1233           7572.1       3p       a/b three-layered sandwiches	Phosphofructokinase C-terminal domain	Phosphofructokinase C-terminal domain
+group_1234           7528.1       2p       a/b three-layered sandwiches	Phosphoglucomutase, first 3 domains	Phosphoglucomutase, first 3 domains
+group_1235           7532.1       3p       a/b three-layered sandwiches	Phosphoglycerate kinase domain 1	Phosphoglycerate kinase domain 1
+group_378            205.1        20653p   a+b two layers	4Fe-4S ferredoxin	4Fe-4S ferredoxin
+group_382            4139.1       3p       a+b two layers	AMMECR1-like	AMMECR1-like
+group_1237           7525.1       12p      a/b three-layered sandwiches	Phosphoglycerate mutase-like	Phosphoglycerate mutase-like
+group_1238           2011.2       569p     a/b three-layered sandwiches	Phosphorylase/hydrolase-like	Peptidyl-tRNA hydrolase-like
+group_384            225.1        207p     a+b two layers	ATPase domain of HSP90 chaperone/DNA topoisomerase II/histidine kinase-like	ATPase domain of HSP90 chaperone/DNA topoisomerase II/histidine kinase
+group_389            807.1        1p       a+b two layers	Allophycocyanin linker chain (domain)	Allophycocyanin linker chain (domain)
+group_39             4333.1       1p       a+b complex topology	DNA methylase specificity domain	DNA methylase specificity domain
+group_1240           2011.1       404p     a/b three-layered sandwiches	Phosphorylase/hydrolase-like	Zn-dependent exopeptidases
+group_392            304.8        9855p    a+b two layers	Alpha-beta plaits	ACT-like
+group_393            304.163      2p       a+b two layers	Alpha-beta plaits	ATP-binding protein TM_1403 insertion domain
+group_396            304.48       427p     a+b two layers	Alpha-beta plaits	Adenylyl and guanylyl cyclase catalytic domain-like
+group_1249           2008.1       555p     a/b three-layered sandwiches	Restriction endonuclease-like	Restriction endonuclease-like
+group_398            304.113      1p       a+b two layers	Alpha-beta plaits	Alpha subunit of glutamate synthase, insertion domain
+group_1256           2490.1       2p       a/b three-layered sandwiches	Ribosomal protein L13/L15p/L18e/L32e	Ribosomal protein L32e
+group_401            304.107      1p       a+b two layers	Alpha-beta plaits	Aminomethyltransferase folate-binding domain
+group_1257           2490.3       5p       a/b three-layered sandwiches	Ribosomal protein L13/L15p/L18e/L32e	Ribosomal proteins L15p and L18e
+group_1258           7559.1       2p       a/b three-layered sandwiches	Ribosomal protein L4	Ribosomal protein L4
+group_403            304.112      20p      a+b two layers	Alpha-beta plaits	Argonaute, N-terminal domain
+group_1259           2003.2       101p     a/b three-layered sandwiches	Rossmann-like	Formate dehydrogenase/DMSO reductase, domains 2 and 3
+group_406            304.25       3p       a+b two layers	Alpha-beta plaits	Bacterial exopeptidase dimerisation domain
+group_407            304.56       1p       a+b two layers	Alpha-beta plaits	CRISPR associated protein Cas2-like
+group_408            304.158      2p       a+b two layers	Alpha-beta plaits	CRISPR system Cas5 homologs
+group_409            304.51       20p      a+b two layers	Alpha-beta plaits	CRISPR transcript (pre-crRNA) processing endoribonuclease-related
+group_1260           2003.6       1p       a/b three-layered sandwiches	Rossmann-like	Ribokinase-like
+group_410            304.139      241p     a+b two layers	Alpha-beta plaits	Cas7-related
+group_411            304.54       73p      a+b two layers	Alpha-beta plaits	CcmK-like
+group_418            304.4        275p     a+b two layers	Alpha-beta plaits	Dimeric alpha+beta barrel
+group_420            304.24       9p       a+b two layers	Alpha-beta plaits	EF-G C-terminal domain-like
+group_422            304.103      32p      a+b two layers	Alpha-beta plaits	FMN-dependent nitroreductase-like
+group_425            304.28       329p     a+b two layers	Alpha-beta plaits	Ferredoxin domains in multidrug efflux transporter
+group_427            304.120      5p       a+b two layers	Alpha-beta plaits	Ferredoxin-like domain in ThiI
+group_43             4309.1       2p       a+b complex topology	DUSP, domain in ubiquitin-specific proteases	DUSP, domain in ubiquitin-specific proteases
+group_436            304.5        3p       a+b two layers	Alpha-beta plaits	GlnB-like
+group_438            304.3        388p     a+b two layers	Alpha-beta plaits	HMA-related
+group_442            304.106      1p       a+b two layers	Alpha-beta plaits	Hypothetical protein PH1602
+group_457            304.137      3p       a+b two layers	Alpha-beta plaits	NOL1/NOP2/sun N-terminal ferredoxin-like domain
+group_458            304.122      10p      a+b two layers	Alpha-beta plaits	Nitrogen repressor-like proteins
+group_464            304.55       198p     a+b two layers	Alpha-beta plaits	Origin of replication-binding domains
+group_465            304.20       7p       a+b two layers	Alpha-beta plaits	PAP/Archaeal CCA-adding enzyme, C-terminal domain
+group_470            304.11       8p       a+b two layers	Alpha-beta plaits	Probable ACP-binding domain of malonyl-CoA ACP transacylase
+group_471            304.7        167p     a+b two layers	Alpha-beta plaits	Protease propeptides/inhibitors
+group_472            304.102      104p     a+b two layers	Alpha-beta plaits	Pseudouridine synthase
+group_476            304.9        5822p    a+b two layers	Alpha-beta plaits	RNA-binding domain, RBD
+group_478            304.60       24p      a+b two layers	Alpha-beta plaits	Ribosomal protein L10-like
+group_480            304.44       15p      a+b two layers	Alpha-beta plaits	Ribosomal protein S10
+group_481            304.12       186p     a+b two layers	Alpha-beta plaits	Ribosomal protein S6
+group_486            304.47       4p       a+b two layers	Alpha-beta plaits	SEA domain
+group_50             217.1        1p       a+b complex topology	FAD-binding domain-like	FAD-binding domain
+group_501            304.36       11p      a+b two layers	Alpha-beta plaits	YajQ-like
+group_509            304.128      1p       a+b two layers	Alpha-beta plaits	ferredoxin-like domain in periplasmic region of MacB
+group_518            327.7        44p      a+b two layers	Alpha-lytic protease prodomain-like	Cation efflux protein cytoplasmic domain-like
+group_519            327.19       7p       a+b two layers	Alpha-lytic protease prodomain-like	DNA mismatch repair protein MutL regulatory subdomain
+group_521            327.3        12p      a+b two layers	Alpha-lytic protease prodomain-like	GMP synthetase C-terminal dimerisation domain
+group_522            327.8        5p       a+b two layers	Alpha-lytic protease prodomain-like	GSPII protein E N-terminal domain-like
+group_524            327.11       35609p   a+b two layers	Alpha-lytic protease prodomain-like	KH-domains
+group_526            327.10       2p       a+b two layers	Alpha-lytic protease prodomain-like	Ribosome-binding factor A (RbfA)-related
+group_527            327.13       3p       a+b two layers	Alpha-lytic protease prodomain-like	Ring-building motif I in type III secretion system
+group_528            327.16       36p      a+b two layers	Alpha-lytic protease prodomain-like	Ring-building motif II in type III secretion system
+group_529            327.17       10p      a+b two layers	Alpha-lytic protease prodomain-like	S-adenosylmethionine synthetase
+group_1262           2003.4       2746p    a/b three-layered sandwiches	Rossmann-like	Tryptophan synthase beta subunit-like PLP-dependent enzymes
+group_533            327.5        43p      a+b two layers	Alpha-lytic protease prodomain-like	a+b domain in acetyl-CoA synthetase-like proteins
+group_1266           7587.1       271p     a/b three-layered sandwiches	Rossmann-like domain in carbohydrate phosphatases	Rossmann-like domain in carbohydrate phosphatases
+group_541            809.1        1p       a+b two layers	BLIP-like	beta-lactamase-inhibitor protein, BLIP
+group_1270           3110.1       44p      a/b three-layered sandwiches	STT3/PglB/AglB core domain	STT3/PglB/AglB core domain
+group_55             873.1        30p      a+b complex topology	H-NOX domain	H-NOX domain
+group_550            810.1        6p       a+b two layers	BtrG-like (Pfam 03674)	BtrG-like (Pfam 03674)
+group_1274           2496.1       15p      a/b three-layered sandwiches	SpoIIaa-like	SpoIIaa-like
+group_1277           7527.1       1p       a/b three-layered sandwiches	SurE-like/CoA-transferase family III (CaiB/BaiF)	SurE-like/CoA-transferase family III (CaiB/BaiF)
+group_128            862.1        3p       a+b complex topology	Prim-pol domain	Prim-pol domain
+group_556            3016.1       3015p    a+b two layers	C-terminal domain in some PLP-dependent transferases	C-terminal domain in some PLP-dependent transferases
+group_56             5093.1       1p       a+b complex topology	Head and neck region of the ectodomain of paramyxoviruses fusion glycoprotein	Head and neck region of the ectodomain of paramyxoviruses fusion glycoprotein
+group_1283           2487.1       1405p    a/b three-layered sandwiches	The "swivelling" beta/beta/alpha domains	The "swivelling" beta/beta/alpha domain
+group_57             261.1        8p       a+b complex topology	Hect, E3 ligase catalytic domain	Hect, E3 ligase catalytic domain
+group_1284           7574.1       962p     a/b three-layered sandwiches	Thiamin diphosphate-binding fold (THDP-binding)	Thiamin diphosphate-binding fold (THDP-binding)
+group_1285           7562.1       3p       a/b three-layered sandwiches	Thiamin pyrophosphokinase, catalytic domain	Thiamin pyrophosphokinase, catalytic domain
+group_580            3012.1       3p       a+b two layers	Cof C2 cap domain	Cof C2 cap domain
+group_1286           7581.1       818p     a/b three-layered sandwiches	Thiolase-like	Thiolase-like
+group_1287           7503.1       17p      a/b three-layered sandwiches	TolB, N-terminal domain	TolB, N-terminal domain
+group_588            243.7        3p       a+b two layers	Cystatin-like	Cytochrome b5-like heme/steroid binding domain
+group_593            243.1        831p     a+b two layers	Cystatin-like	NTF2-like
+group_597            243.6        1p       a+b two layers	Cystatin-like	Pre-PUA domain
+group_6              883.1        32p      a+b complex topology	Aha1/BPI domain-like	Aha1/BPI domain-like
+group_606            305.1        15p      a+b two layers	DCoH-like	RBP11-like subunits of RNA polymerase
+group_607            864.1        2p       a+b two layers	DLC	DLC
+group_609            227.1        3p       a+b two layers	DNA clamp	DNA clamp
+group_615            252.2        1p       a+b two layers	DNA-binding domain	GCC-box binding domain-like
+group_616            252.1        16p      a+b two layers	DNA-binding domain	Methyl-CpG-binding domain, MBD
+group_630            872.1        1p       a+b two layers	Dodecin subunit-like	Flavin-binding protein dodecin-like
+group_1289           7512.1       2696p    a/b three-layered sandwiches	UDP-Glycosyltransferase/glycogen phosphorylase	UDP-Glycosyltransferase/glycogen phosphorylase
+group_1292           7534.1       1p       a/b three-layered sandwiches	Undecaprenyl diphosphate synthase	Undecaprenyl diphosphate synthase
+group_1293           7569.1       1p       a/b three-layered sandwiches	Uracil-DNA glycosylase-like	Uracil-DNA glycosylase-like
+group_651            244.1        166p     a+b two layers	FAD-linked reductases, C-terminal domain-like	FAD-linked reductases-C
+group_652            244.2        82p      a+b two layers	FAD-linked reductases, C-terminal domain-like	FAD/NAD-linked reduatases, dimerisation (C-terminal) domain
+group_1304           2488.1       218p     a/b three-layered sandwiches	alpha/beta knot	alpha/beta knot
+group_653            244.4        1060p    a+b two layers	FAD-linked reductases, C-terminal domain-like	Ni-Fe binding domain in nickel-iron hydrogenase large subunit
+group_656            284.4        4p       a+b two layers	FKBP-like	Archaeal FKBP insertion domain
+group_657            284.2        1p       a+b two layers	FKBP-like	Chitinase insertion domain
+group_659            284.1        919p     a+b two layers	FKBP-like	FKBP-like
+group_671            298.1        80p      a+b two layers	FwdE/GAPDH domain-like	Glyceraldehyde-3-phosphate dehydrogenase-like, C-terminal domain
+group_2591           109.4        352145p  alpha superhelices	Repetitive alpha hairpins	ARM repeat
+group_678            3115.1       5p       a+b two layers	GP2-like	RplX-like
+group_688            3767.1       1p       a+b two layers	Giardia Dicer N-terminal domain	Giardia Dicer N-terminal domain
+group_693            306.6        1p       a+b two layers	Glucose permease domain IIB-like	PH0987 N-terminal domain-like
+group_698            306.3        9p       a+b two layers	Glucose permease domain IIB-like	eIF1-like
+group_701            321.1        4p       a+b two layers	Glutamine synthetase-like	Glutamine synthetase/guanido kinase
+group_704            211.1        73p      a+b two layers	Glyoxalase/Bleomycin resistance protein/Dihydroxybiphenyl dioxygenase	Glyoxalase/Bleomycin resistance protein/Dihydroxybiphenyl dioxygenase
+group_713            307.1        6p       a+b two layers	Hedgehog/DD-peptidase	Hedgehog/DD-peptidase
+group_716            242.3        1p       a+b two layers	Homing endonucleases-like	DNA repair protein MutS, domain I
+group_717            242.1        9p       a+b two layers	Homing endonucleases-like	Homing endonucleases
+group_718            242.2        8p       a+b two layers	Homing endonucleases-like	tRNA-intron endonuclease N-terminal domain-like
+group_720            878.1        2p       a+b two layers	Hypothetical protein MTH677	Hypothetical protein MTH677
+group_724            884.1        14p      a+b two layers	Hypothetical protein YjiA, C-terminal domain	Hypothetical protein YjiA, C-terminal domain
+group_726            328.1        2p       a+b two layers	IF3-like	AlbA-like
+group_1305           7579.1       20250p   a/b three-layered sandwiches	alpha/beta-Hydrolases	alpha/beta-Hydrolases
+group_1308           4126.1       45p      a/b three-layered sandwiches	beta-carbonic anhydrase-like	beta-carbonic anhydrase
+group_734            328.7        8p       a+b two layers	IF3-like	Smr domain
+group_745            6094.1       3p       a+b two layers	KS-MAT linker domain in fatty acid synthase	KS-MAT linker domain in fatty acid synthase
+group_746            4099.1       5p       a+b two layers	Kinetochore globular domain-like	Kinetochore globular domain-like
+group_2596           109.3        24427p   alpha superhelices	Repetitive alpha hairpins	Ankyrin repeat
+group_758            309.1        1377p    a+b two layers	LuxS, MPP, ThrRS/AlaRS common domain	LuxS, MPP, ThrRS/AlaRS common domain
+group_760            256.1        2p       a+b two layers	MTH1598-like	MTH1598-like
